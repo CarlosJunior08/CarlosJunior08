@@ -1,6 +1,4 @@
-### Olá, Eu sou o Carlos Junior, e bem vindo ao meu perfil!
-
-- 🌱 Estou aprendendo Java
+### Olá e bem vindo(a)
 
 <div style="display: inline_block"><br>
   
